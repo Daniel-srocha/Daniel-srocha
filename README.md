@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.licdn.com/dms/image/C4D12AQGfXx0irJ_qNQ/article-cover_image-shrink_600_2000/0/1549075194166?e=1698278400&v=beta&t=8zku826HbqDO-UMSKzEWcSh93OKzDOrkfUk8g79SiYw">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://www.penapolis.sp.gov.br/fotos/162375f5794662639d5eda7fbf16a36b.jpg">
 
 <h1>
     <a href="https://daniel-srocha.github.io/">
