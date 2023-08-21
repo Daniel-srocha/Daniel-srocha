@@ -1,7 +1,23 @@
-## Oiii eu sou o Daniel Rocha, estudante de conteúdo de programação e tecnologia!
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.licdn.com/dms/image/C4D12AQGfXx0irJ_qNQ/article-cover_image-shrink_600_2000/0/1549075194166?e=1698278400&v=beta&t=8zku826HbqDO-UMSKzEWcSh93OKzDOrkfUk8g79SiYw">
+
+<h1>
+    <a href="https://daniel-srocha.github.io/">
+     <img align="center" alt="Logo Daniel Rocha" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <span>Daniel Rocha</span>
+</h1>
+
+##
+
+Oiii sou estudante de conteúdo de programação e tecnologia!
+
 Estudo Engenharia da computação na [UNIVESP](https://univesp.br/)
 
 Estou participando do [bootcamp Santander 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) na [DIO](https://www.dio.me/)
+
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://daniel-srocha.github.io/)
+[![GitHub Page](https://img.shields.io/badge/daniel-srocha.github.io-67136f?style=for-the-badge)](https://daniel-srocha.github.io/)
+-->
 
 ##
 
@@ -26,10 +42,7 @@ Estou participando do [bootcamp Santander 2023](https://app.becas-santander.com/
   
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/danielsrocha88/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dsr.danielsrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-rocha-42031175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
