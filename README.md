@@ -14,6 +14,8 @@ Estudo Engenharia da computação na [UNIVESP](https://univesp.br/)
 
 Estou participando do [bootcamp Santander 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) na [DIO](https://www.dio.me/)
 
+<a href="https://web.dio.me/users/2109937?tab=skills" target="_blank"><img src="https://img.shields.io/badge/Meu%20Perfil%20DIO-8A2BE2" target="_blank"></a>
+
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://daniel-srocha.github.io/)
 [![GitHub Page](https://img.shields.io/badge/daniel-srocha.github.io-67136f?style=for-the-badge)](https://daniel-srocha.github.io/)
@@ -45,5 +47,6 @@ Estou participando do [bootcamp Santander 2023](https://app.becas-santander.com/
   <a href="https://www.instagram.com/danielsrocha88/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dsr.danielsrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-rocha-42031175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   
 </div>
