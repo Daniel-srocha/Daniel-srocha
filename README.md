@@ -12,7 +12,7 @@ Oiii sou estudante de conteúdo de programação e tecnologia!
 
 Estudo Engenharia da computação na [UNIVESP](https://univesp.br/)
 
-Estou participando do [bootcamp Santander 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) na [DIO](https://www.dio.me/)
+
 
 <a href="https://web.dio.me/users/2109937?tab=skills" target="_blank"><img src="https://img.shields.io/badge/Meu%20Perfil%20DIO-8A2BE2" target="_blank"></a>
 
